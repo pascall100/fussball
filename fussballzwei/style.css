@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d33b3b;
+  }
+  
+  canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(30, 128, 0);
+  }
+  
